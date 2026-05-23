@@ -26,7 +26,9 @@ SelmaBouvier,Sobrepeso/Obeso2,40,Femenino
 
 Para el control de calidad usamos [FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/), esta herramienta está hecha con el lenguaje de programación JAVA, la podemos descargar para nuestro sistema operativo, desde este [enlace](https://www.bioinformatics.babraham.ac.uk/projects/download.html#fastqc) y trabajar localmente en nuestras computadoras.
 En este apartado usamos según nuestro grupo No. 5, Grupo Obeso1 (Familia 1, Sobrepeso/Obeso): Abraham Simpson y Homer Simpson encontramos los resultados que se muestran en las siguientes imágenes, así en cada pestaña aparecen los resultados:
-<img width="780" height="300" alt="work_flow" src="src/images/FastQC.png" />
+<img width="600" height="300" alt="work_flow" src="src/images/FastQC.png" />
+
+
 El análisis de control de calidad mediante FastQC mostró lecturas de buena calidad, sin secuencias marcadas como baja calidad y con contenido GC dentro de los rangos esperados. No se consideró necesario realizar trimming.
 
 
