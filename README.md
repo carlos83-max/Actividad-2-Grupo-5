@@ -69,6 +69,4 @@ Nota metodológica. Dado que el conjunto es didáctico y simulado, los encabezad
 <div style="text-align: center;">
 <img width="300" height="200" alt="Logo UNIR" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Logo_UNIR.png" />
 </div>
-Secuenciación y Ómicas de Próxima Generación
-Actividad 2 
-Análisis de expresión diferencial de genes relacionados con la obesidad mediante RNA-seq
+
